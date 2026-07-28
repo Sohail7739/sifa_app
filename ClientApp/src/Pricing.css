@@ -1,0 +1,69 @@
+/* Pricing Section */
+.pricing-section {
+  padding: 5rem 2rem;
+  background-color: #0b2115;
+  color: #fff;
+}
+
+.pricing-section__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.pricing-section__title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 4rem;
+  color: #019a71;
+}
+
+.pricing-section__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.pricing-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.3s ease, background 0.3s ease, border-color 0.3s ease;
+  min-height: 250px;
+}
+
+.pricing-card:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.06);
+  border-color: #019a71;
+}
+
+.pricing-card__title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+.pricing-card__description {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.pricing-card__price {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #019a71;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 1.5rem;
+  margin-top: auto;
+}
+
+/* RTL Support for Pricing */
+[dir="rtl"] .pricing-card {
+  text-align: right;
+}

@@ -1,0 +1,1091 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "insight": "Insight",
+    "contacts": "Contacts"
+  },
+  "home": {
+    "hero": {
+      "title1": "Strategic Advisory for Real Growth",
+      "description1": "Our team at SIFA has been helping organizations across Saudi Arabia and beyond solve complex challenges, strengthen financial performance, and build sustainable growth.",
+      "button1": "Explore Our Services",
+      "title2": "About SIFA Advisory",
+      "description2": "Discover our mission, values, and the experienced team behind SIFA. Learn how we deliver tailored solutions that drive measurable results for our clients.",
+      "button2": "Learn More About Us",
+      "title3": "Comprehensive Business Services",
+      "description3": "From branding and marketing to risk advisory and IT consulting, we offer a full spectrum of services designed to help your business thrive.",
+      "button3": "View All Services",
+      "title4": "Insights & Thought Leadership",
+      "description4": "Stay informed with our latest insights, industry analysis, and thought leadership content that helps you make informed business decisions.",
+      "button4": "Read Our Insights",
+      "title5": "Get in Touch",
+      "description5": "Ready to transform your business? Contact our team today to discuss how SIFA can help you achieve your strategic goals.",
+      "button5": "Contact Us",
+      "showreel": {
+        "title": "SIFA's 2025 Showreel is now revealed",
+        "description": "Discover our journey, achievements, and vision for the future in our latest showreel.",
+        "button": "Watch Now"
+      }
+    },
+    "why": {
+      "title": "Why SIFA?",
+      "description": "At SIFA, we believe true consultancy goes beyond giving advice. We work side by side with you to design practical, tailored solutions that deliver measurable results.",
+      "expertise": {
+        "title": "Expertise that Delivers",
+        "description": "Backed by an experienced team across multiple industries."
+      },
+      "tailored": {
+        "title": "Tailored, Not Template",
+        "description": "Every client is unique—solutions fit your vision and challenges."
+      },
+      "global": {
+        "title": "Global Perspective, Local Insight",
+        "description": "International best practices paired with deep regional expertise."
+      },
+      "meetTeam": "Meet Our Team"
+    },
+    "trusted": {
+      "title": "Trusted by Industry Leaders",
+      "description": "We're proud to partner with organizations such as <strong>Artique</strong>, <strong>Alturki Group</strong>, <strong>Awael</strong>, <strong>GGA</strong>, <strong>Attar</strong>, <strong>Wazen Arabia</strong>, <strong>DYNEX Arabia</strong>, <strong>Tahreez</strong> and <strong>Exact Technical Solutions (ETS)</strong>&nbsp;&mdash;&nbsp;delivering results that matter.",
+      "button": "Know more about us"
+    },
+    "services": {
+      "title": "Services",
+      "subtitle": "Solutions That Drive Measurable Impact",
+      "description": "At SIFA, we don't offer off-the-shelf solutions. Every service is tailored to your business's unique needs, ensuring strategies that not only look good on paper but deliver real results.",
+      "readMore": "Read More",
+      "learnMore": "Interested to learn more",
+      "transaction": {
+        "title": "Transaction Services",
+        "summary": "Deal diligence, valuation, and integration blueprints designed for confident decisions.",
+        "description": "From buy-side advisory to post-merger integration, we orchestrate rigor across every transaction phase."
+      },
+      "risk": {
+        "title": "Risk Advisory Services",
+        "summary": "Enterprise risk frameworks that protect value and accelerate governance readiness.",
+        "description": "We align risk appetite, controls, and compliance programs to ensure organizations scale sustainably."
+      },
+      "people": {
+        "title": "People & Organization",
+        "summary": "Operating models, talent strategies, and change programs that unlock team performance.",
+        "description": "We co-design culture, process, and leadership systems to activate every level of the organization."
+      },
+      "it": {
+        "title": "Digital Transformation Advisory",
+        "summary": "Digital modernization programs that blend resilience with rapid innovation.",
+        "description": "Our architects translate business strategy into secure, scalable cloud ecosystems and data platforms."
+      },
+      "branding": {
+        "title": "Branding, Marketing & Communication Advisory",
+        "summary": "Turn insights into action with marketing and sales strategies that fuel competitiveness.",
+        "description": "We craft positioning, campaigns, and stakeholder narratives that move audiences and strengthen market reputation."
+      },
+      "valuations": {
+        "title": "Business Valuations",
+        "summary": "Independent assessments anchored in industry benchmarks and financial clarity.",
+        "description": "We combine market modeling with scenario testing to benchmark enterprise value with confidence."
+      }
+    },
+    "clients": {
+      "title": "Clients & Partnership",
+      "subhead": "Over the past 15 years, SIFA has partnered with some of the Kingdom's most respected names",
+      "footnote": "These partnerships reflect the trust we've built through excellence, collaboration, and impact-driven results."
+    },
+    "contact": {
+      "eyebrow": "Contact Us",
+      "title": "Let's Talk Strategy",
+      "description": "Your next growth opportunity starts with a conversation. Reach out and discover how SIFA can turn your challenges into success stories.",
+      "email": "Email",
+      "officeAddress": "Office Address",
+      "phone": "Phone",
+      "formTitle": "Get in touch with us.",
+      "formDescription": "We're here to assist you.",
+      "name": "Name",
+      "emailPlaceholder": "Email",
+      "message": "Message",
+      "submit": "Leave us a Message"
+    },
+    "footer": {
+      "copyright": "© Copyright SIFA CONSULTING, {year} — All Rights Reserved"
+    }
+  },
+  "about": {
+    "eyebrow": "ABOUT US",
+    "hero": {
+      "title": "Your next growth opportunity starts here.",
+      "title1": "Your next ",
+      "title2": "growth",
+      "title3": "opportunity starts here.",
+      "button": "Talk to an Expert"
+    },
+    "whoWeAre": {
+      "title": "Who We Are",
+      "description": "SIFA is a strategic consultancy committed to turning business challenges into opportunities for growth. We work with medium to large enterprises and government entities across the kingdom, delivering customized strategies that drive financial results, strengthen organizations, and fuel long-term success.",
+      "mission": {
+        "title": "Our Mission",
+        "description": "To empower organizations with expert advice and practical solutions that deliver measurable impact."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "To be the most trusted partner in strategy and financial advisory, where bespoke solutions and collaborative partnerships shape sustainable growth and value creation across markets."
+      },
+      "promise": {
+        "title": "Our Promise",
+        "description": "At SIFA, quality is at the core of everything we do. We don't believe in one-size-fits-all approaches. Instead, we work hand-in-hand with our clients, ensuring that their goals are not just met but exceeded."
+      }
+    },
+    "different": {
+      "title": "What Makes Us Different",
+      "collaboration": {
+        "title": "Collaborative partnerships:",
+        "description": "We become an extension of your team."
+      },
+      "bespoke": {
+        "title": "Bespoke strategies:",
+        "description": "Tailored solutions built around your unique challenges."
+      },
+      "global": {
+        "title": "Global meets local:",
+        "description": "International knowledge adapted to the Saudi market."
+      }
+    },
+    "values": {
+      "title": "Our Values",
+      "collaboration": {
+        "title": "Collaboration:",
+        "description": "We grow stronger together."
+      },
+      "integrity": {
+        "title": "Integrity:",
+        "description": "Transparency and trust at every step."
+      },
+      "excellence": {
+        "title": "Excellence:",
+        "description": "Setting the highest standard in everything we do."
+      },
+      "innovation": {
+        "title": "Innovation:",
+        "description": "Driving smarter, future-ready solutions."
+      }
+    }
+  },
+  "services": {
+    "transaction": "Transaction Services",
+    "risk": "Risk Advisory Services",
+    "people": "People & Organization",
+    "it": "Digital Transformation Advisory",
+    "branding": "Branding, Marketing and Communication Advisory",
+    "events": "Events & Gifts",
+    "media": "Media Production & Photography",
+    "financial": "Financial Services",
+    "overview": "Services Overview",
+    "eyebrow": "SERVICES",
+    "title": "Our Services",
+    "hero": {
+      "title": "Solutions That Drive Measurable Impact",
+      "titleLine1": "Solutions That Drive",
+      "titleLine2": "Measurable Impact",
+      "description": "At SIFA, we don't offer off-the-shelf solutions. Every service is tailored to your business's unique needs, ensuring strategies that not only look good on paper but deliver real results."
+    },
+    "cards": {
+      "transaction": {
+        "name": "Transaction Services",
+        "description": "End-to-end support for confident, well-executed transactions across every stage of the lifecycle."
+      },
+      "risk": {
+        "name": "Risk Advisory",
+        "description": "Strengthening governance, resilience, and decision-making through comprehensive risk management frameworks."
+      },
+      "people": {
+        "name": "People & Organization",
+        "description": "Aligning human capital with strategy and performance to maximize organizational effectiveness."
+      },
+      "it": {
+        "name": "Digital Transformation Advisory",
+        "description": "Technology advice focused on business outcomes with independent, objective guidance for maximum value."
+      },
+      "branding": {
+        "name": "Branding & Marketing",
+        "description": "Turn insights into action with marketing and sales strategies that fuel competitiveness and drive measurable growth."
+      },
+      "financial": {
+        "name": "Financial Services",
+        "description": "Comprehensive financial advisory services delivered by senior Saudi experts with deep practical experience."
+      },
+      "events": {
+        "name": "Events & Gifts",
+        "description": "We design experiences that people remember, from concept to execution with impactful event solutions."
+      },
+      "media": {
+        "name": "Media Production",
+        "description": "Stories deserve to be seen and remembered through visual content that speaks with clarity and purpose."
+      }
+    },
+    "content": {
+      "title": "Branding, Marketing & Communication Advisory",
+      "summary": "Turn insights into action with marketing and sales strategies that fuel competitiveness.",
+      "marketEntry": {
+        "title": "Market Entry & Expansion",
+        "description": "Identifying and capturing new opportunities."
+      },
+      "tailoredMarketing": {
+        "title": "Tailored Marketing Solutions",
+        "description": "Campaigns and strategies aligned with your goals."
+      },
+      "marketingImplementation": {
+        "title": "Marketing and implementation",
+        "description": "We design data-driven marketing strategies and support their execution to ensure measurable growth. SIFA helps you move from strategy to successful results."
+      }
+    },
+    "list": {
+      "transaction": "Transaction Services",
+      "risk": "Risk Advisory Services",
+      "people": "People & Organization",
+      "it": "Digital Transformation Advisory",
+      "financial": "Financial Services",
+      "mergers": "Mergers & Acquisitions",
+      "valuations": "Business Valuations"
+    },
+    "services": {
+      "branding": {
+        "name": "Branding, Marketing and Communication Advisory",
+        "title": "Branding, Marketing and Communication Advisory",
+        "intro": "Turn insights into action with marketing and sales strategies that fuel competitiveness. We help brands define who they are, what they stand for, and how they are perceived in the market then translate that into a cohesive, scalable brand system. SIFA helps you move from strategy to successful results.",
+        "sections": [
+          {
+            "title": "Branding Advisory",
+            "content": "We build brands with presence and purpose. At SIFA, we see branding as a strategic foundation, not just a visual identity. We help brands define who they are, what they stand for, and how they are perceived in the market then translate that into a cohesive, scalable brand system. Our goal is to create clear, distinctive brands built to compete and grow.",
+            "list": [
+              "Defining brand essence, values, and tone of voice",
+              "Developing strong visual and verbal identities aligned with business vision",
+              "Launching new brands or repositioning existing ones",
+              "Ensuring consistency across all customer and stakeholder touchpoints"
+            ]
+          },
+          {
+            "title": "Marketing Advisory",
+            "content": "Marketing strategies designed to drive growth not just activity. At SIFA, our marketing advisory is grounded in market insight, data, and a deep understanding of audience behavior. We support businesses in making informed marketing decisions that enable growth, expansion, and long-term competitiveness. We turn insights into actionable strategies that deliver measurable impact.",
+            "list": [
+              "Market Entry & Expansion: Identifying and capturing new market opportunities",
+              "Market and competitor analysis to uncover real growth potential",
+              "Designing integrated marketing strategies aligned with commercial objectives",
+              "Channel strategy and investment prioritization",
+              "Tailored Marketing Solutions: Campaigns and strategies aligned with your goals",
+              "Marketing and implementation support for measurable growth"
+            ]
+          },
+          {
+            "title": "Digital Marketing Strategy",
+            "content": "We don’t treat branding or digital marketing as standalone activities. We see them as business levers. Our advisory approach starts with one core question: How should your brand behave to win in its market? From brand architecture and positioning, to digital marketing strategy and communication governance, we help organizations move from fragmented execution to a clear, disciplined system. On the digital marketing side, we focus on intent, not noise. We design data-led strategies that link audience behavior, content, channels, and performance metrics to real business objectives. The result is not “more marketing”, but smarter, controlled, and scalable impact.",
+            "list": [
+              "Brand narrative and value proposition",
+              "Digital channel roles (what each platform is responsible for)",
+              "Content and campaign frameworks tied to KPIs",
+              "Performance measurement and optimization models"
+            ]
+          },
+          {
+            "title": "Communication Advisory",
+            "content": "Your message is delivered with clarity, impact, and purpose. Effective communication connects strategy to people. At SIFA, we help organizations craft clear, consistent, and compelling messages that build trust and strengthen brand perception. We help you tell your story the right way, at the right time, to the right audience.",
+            "list": [
+              "Corporate and brand communication strategies",
+              "Key message development and narrative building",
+              "Tone of voice and messaging alignment across platforms",
+              "Campaign, content, and stakeholder communication support",
+              "Ensuring consistency between brand identity, audience expectations, and market context"
+            ]
+          },
+          {
+            "title": "From Strategy to Execution",
+            "content": "Turning vision into results. We don’t stop at strategy. SIFA supports the execution of marketing and communication plans through tailored, data-driven solutions designed to deliver measurable growth. From strategy to implementation, we work closely with our clients to ensure ideas translate into real-world success.",
+            "list": []
+          }
+        ],
+        "benefits": [
+          "Clear vision and direction for your business.",
+          "Enhanced ability to anticipate and respond to market changes.",
+          "Data-driven decision-making for strategic planning execution.",
+          "Structured approach to achieving your business goals.",
+          "Consistent brand identity across all touchpoints.",
+          "Optimized marketing investment and channel strategy."
+        ],
+        "features": [
+          "Brand narrative and value proposition definition",
+          "Digital channel roles and responsibility mapping",
+          "Content and campaign frameworks tied to KPIs",
+          "Performance measurement and optimization models"
+        ],
+        "process": [
+          {
+            "title": "Discovery",
+            "description": "Understanding brand essence, market position, and business goals."
+          },
+          {
+            "title": "Strategy",
+            "description": "Defining brand identity, positioning, and communication framework."
+          },
+          {
+            "title": "Design",
+            "description": "Creating visual assets, messaging guidelines, and brand collateral."
+          },
+          {
+            "title": "Launch",
+            "description": "Rolling out the brand across all touchpoints and channels."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How do you measure branding success?",
+            "a": "We track brand health metrics, sentiment analysis, and alignment with business growth KPIs."
+          },
+          {
+            "q": "Can you help with market entry?",
+            "a": "Yes, we identify and capture new market opportunities through rigorous market and competitor analysis."
+          },
+          {
+            "q": "Do you handle execution?",
+            "a": "We support the execution of marketing and communication plans through tailored, data-driven solutions."
+          }
+        ],
+        "labels": {
+          "benefitsTitle": "Benefits With Our Service",
+          "featuresTitle": "Key features",
+          "faqEyebrow": "FAQ___",
+          "faqTitle": "Get Every Single Answer From Here",
+          "seeAll": "See ALL"
+        }
+      },
+      "transaction": {
+        "name": "Transaction Services",
+        "title": "Transaction Services",
+        "intro": "End-to-end support for confident, well-executed transactions. At SIFA, we support clients across every stage of the transaction lifecycle, on both the buy-side and sell-side, ensuring informed decision-making, risk mitigation, and seamless execution. Our transaction services are designed to bring clarity, structure, and confidence to complex deals, whether you are acquiring, divesting, or preparing for capital market transactions. We help clients maximize value while navigating transactions with precision and control.",
+        "sections": [
+          {
+            "title": "Buy-Side Advisory",
+            "content": "Comprehensive support for acquisitions.",
+            "list": [
+              "Financial, operational, and commercial due diligence",
+              "Risk assessment and deal feasibility analysis",
+              "Valuation support and transaction structuring",
+              "Post-transaction integration support to ensure value realization"
+            ]
+          },
+          {
+            "title": "Sell-Side Advisory",
+            "content": "Maximizing value for divestitures.",
+            "list": [
+              "Vendor due diligence to enhance deal readiness and credibility",
+              "IPO readiness assessments and execution support",
+              "Carve-out planning and execution",
+              "Transaction documentation and coordination with stakeholders"
+            ]
+          }
+        ],
+        "benefits": [
+          "Informed decision-making through rigorous due diligence.",
+          "Risk mitigation across financial and operational areas.",
+          "Seamless execution of complex transactions.",
+          "Value maximization for both buy-side and sell-side deals."
+        ],
+        "features": [
+          "End-to-end transaction lifecycle support",
+          "Expert valuation and structuring advice",
+          "Integration planning for post-merger success",
+          "Strategic feasibility analysis"
+        ],
+        "process": [
+          {
+            "title": "Assessment",
+            "description": "Evaluating deal feasibility, strategic fit, and initial valuation."
+          },
+          {
+            "title": "Due Diligence",
+            "description": "Rigorous financial, operational, and commercial analysis."
+          },
+          {
+            "title": "Structuring",
+            "description": "Optimizing deal terms, tax implications, and financing."
+          },
+          {
+            "title": "Closing",
+            "description": "Finalizing agreements and supporting post-merger integration."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you support IPOs?",
+            "a": "Yes, we provide IPO readiness assessments and execution support."
+          },
+          {
+            "q": "What is your due diligence scope?",
+            "a": "We cover financial, operational, and commercial due diligence."
+          }
+        ]
+      },
+      "risk": {
+        "name": "Risk Advisory Services",
+        "title": "Risk Advisory Services",
+        "intro": "Strengthening governance, resilience, and decision-making. SIFA’s Risk & Advisory services help organizations proactively identify, manage, and mitigate risks while reinforcing strong governance and control frameworks. Our approach balances regulatory compliance with practical, business-focused solutions that support sustainable growth. We help organizations operate with confidence in an increasingly complex risk environment.",
+        "sections": [
+          {
+            "title": "Controls Assurance",
+            "content": "Design and assessment of internal control frameworks.",
+            "list": [
+              "Enhancing compliance and reducing operational and financial risks"
+            ]
+          },
+          {
+            "title": "Enterprise Risk Management (ERM)",
+            "content": "Identification and assessment of strategic, operational, and financial risks.",
+            "list": [
+              "Risk mitigation strategies aligned with business objectives"
+            ]
+          },
+          {
+            "title": "IT Internal Audit",
+            "content": "Cybersecurity and data privacy assessments.",
+            "list": [
+              "Digitalization and technology risk management"
+            ]
+          }
+        ],
+        "benefits": [
+          "Proactive risk identification and mitigation.",
+          "Strengthened governance and control frameworks.",
+          "Compliance with regulatory standards.",
+          "Enhanced operational resilience."
+        ],
+        "features": [
+          "Comprehensive internal control framework design",
+          "Strategic, operational, and financial risk assessment",
+          "Cybersecurity and data privacy audits",
+          "Digitalization risk management"
+        ],
+        "process": [
+          {
+            "title": "Identify",
+            "description": "Mapping potential strategic, operational, and financial risks."
+          },
+          {
+            "title": "Assess",
+            "description": "Analyzing the probability and impact of identified risks."
+          },
+          {
+            "title": "Mitigate",
+            "description": "Designing robust control frameworks and mitigation strategies."
+          },
+          {
+            "title": "Monitor",
+            "description": "Continuous oversight, reporting, and compliance verification."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How do you handle cybersecurity?",
+            "a": "We conduct IT internal audits including cybersecurity and data privacy assessments."
+          },
+          {
+            "q": "Is your framework compliant?",
+            "a": "We balance regulatory compliance with practical solutions for sustainable growth."
+          }
+        ]
+      },
+      "people": {
+        "name": "People & Organization",
+        "title": "People & Organization",
+        "intro": "Aligning human capital with strategy and performance. We believe people are at the core of every successful organization. SIFA helps clients design people strategies that support execution, performance, and long-term growth. Our People & Organization services focus on optimizing workforce capabilities while building strong organizational foundations. We empower organizations to maximize the value of their human capital.",
+        "sections": [
+          {
+            "title": "Assessment Services",
+            "content": "",
+            "list": [
+              "Job competency and capability assessments",
+              "Organizational readiness and effectiveness evaluations"
+            ]
+          },
+          {
+            "title": "Human Resources Advisory",
+            "content": "",
+            "list": [
+              "Policy and procedure development",
+              "Codes of conduct design and implementation",
+              "Organizational structure and job description design"
+            ]
+          },
+          {
+            "title": "Talent & Performance",
+            "content": "",
+            "list": [
+              "Salary scales and grading frameworks",
+              "Performance management systems",
+              "Employee engagement and incentive strategies"
+            ]
+          }
+        ],
+        "benefits": [
+          "Optimized workforce capabilities.",
+          "Strong organizational foundations.",
+          "Improved employee engagement and performance.",
+          "Clear alignment between human capital and business strategy."
+        ],
+        "features": [
+          "Comprehensive competency assessments",
+          "Tailored HR policy development",
+          "Performance management system design",
+          "Incentive strategy planning"
+        ],
+        "process": [
+          {
+            "title": "Analyze",
+            "description": "Assessing organizational structure, culture, and talent gaps."
+          },
+          {
+            "title": "Design",
+            "description": "Creating HR strategies, performance systems, and policies."
+          },
+          {
+            "title": "Implement",
+            "description": "Rolling out new structures, training programs, and tools."
+          },
+          {
+            "title": "Optimize",
+            "description": "Measuring engagement and refining processes for peak performance."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Can you restructure our HR?",
+            "a": "Yes, we design organizational structures and job descriptions tailored to your needs."
+          },
+          {
+            "q": "Do you help with salaries?",
+            "a": "We develop salary scales and grading frameworks to ensure competitiveness."
+          }
+        ]
+      },
+      "it": {
+        "name": "Digital Transformation Advisory",
+        "title": "Digital Transformation Advisory",
+        "intro": "Technology advice focused on business outcomes. SIFA’s IT consulting services provide independent, objective guidance to help organizations maximize the value of their technology investments. We focus on aligning IT strategy with business priorities, ensuring efficiency, scalability, and resilience. We help clients make informed IT decisions that support sustainable growth.",
+        "sections": [
+          {
+            "title": "Independent IT Advisory",
+            "content": "Impartial technology recommendations aligned with business needs.",
+            "list": []
+          },
+          {
+            "title": "IT Reviews",
+            "content": "Assessing inefficiencies across people, processes, and systems.",
+            "list": []
+          },
+          {
+            "title": "Application Procurement Support",
+            "content": "Requirements definition and vendor evaluation. Support throughout selection and contracting processes.",
+            "list": []
+          },
+          {
+            "title": "Project Management & Recovery",
+            "content": "Governance and oversight for IT project delivery. Recovery support for underperforming or at-risk projects.",
+            "list": []
+          },
+          {
+            "title": "IT Due Diligence",
+            "content": "Technology assessments during acquisitions. Evaluating system scalability, security, and resilience.",
+            "list": []
+          }
+        ],
+        "benefits": [
+          "Alignment of IT strategy with business priorities.",
+          "Maximized value from technology investments.",
+          "Improved system efficiency and scalability.",
+          "Objective, vendor-independent advice."
+        ],
+        "features": [
+          "Independent technology assessments",
+          "Application procurement and vendor evaluation",
+          "IT due diligence for acquisitions",
+          "Project recovery services"
+        ],
+        "process": [
+          {
+            "title": "Audit",
+            "description": "Reviewing current IT infrastructure, systems, and security gaps."
+          },
+          {
+            "title": "Strategy",
+            "description": "Developing a technology roadmap aligned with business goals."
+          },
+          {
+            "title": "Selection",
+            "description": "Evaluating vendors and procuring the right technology solutions."
+          },
+          {
+            "title": "Implementation",
+            "description": "Overseeing deployment, integration, and change management."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you sell software?",
+            "a": "No, we provide independent, objective advisory services."
+          },
+          {
+            "q": "Can you rescue a failing project?",
+            "a": "Yes, we offer project recovery support for underperforming or at-risk projects."
+          }
+        ]
+      },
+      "eventsGifts": {
+        "name": "Events & Gifts",
+        "title": "Events & Gifts",
+        "intro": "We design experiences that people remember. From concept to execution, SIFA delivers end-to-end event solutions that turn ideas into impactful moments. We handle everything. Creative concepts, event planning, setup, branding, guest journey, and on-ground execution, ensuring every detail reflects your brand’s identity.",
+        "sections": [
+          {
+            "title": "Our Services",
+            "content": "Our curated corporate gifting solutions go beyond giveaways. We create meaningful, customized gifts that strengthen relationships, elevate brand presence, and leave a lasting impression, whether for launches, corporate events, or special occasions.",
+            "list": [
+              "Event concept development & planning",
+              "Full event setup & execution",
+              "Corporate & premium gifting concepts",
+              "Customized gift branding & packaging",
+              "Brand-driven guest experiences"
+            ]
+          }
+        ],
+        "benefits": [
+          "End-to-end event management.",
+          "Memorable brand-driven guest experiences.",
+          "High-quality, customized corporate gifting.",
+          "Seamless on-ground execution."
+        ],
+        "features": [
+          "Creative concept development",
+          "Full-service event planning",
+          "Curated premium gifting",
+          "Guest journey optimization"
+        ],
+        "process": [
+          {
+            "title": "Ideation",
+            "description": "Conceptualizing creative themes and immersive experiences."
+          },
+          {
+            "title": "Planning",
+            "description": "Detailed logistics, venue sourcing, and timeline management."
+          },
+          {
+            "title": "Production",
+            "description": "Creating branding, custom gifts, and event setups."
+          },
+          {
+            "title": "Execution",
+            "description": "Flawless on-site management and event delivery."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you handle custom branding?",
+            "a": "Yes, we provide customized gift branding and packaging."
+          },
+          {
+            "q": "What type of events do you do?",
+            "a": "We handle corporate events, launches, and special occasions from concept to execution."
+          }
+        ]
+      },
+      "mediaProduction": {
+        "name": "Media Production & Photography",
+        "title": "Media Production & Photography",
+        "intro": "Stories deserve to be seen and remembered. At SIFA, we produce visual content that speaks with clarity, emotion, and purpose. From brand films and campaign videos to photography that captures authenticity and detail, our media production services are designed to elevate how brands communicate.",
+        "sections": [
+          {
+            "title": "Our Expertise",
+            "content": "We combine creative direction, technical excellence, and storytelling to deliver visuals that perform across platforms, digital, social, and corporate.",
+            "list": [
+              "Brand films & corporate videos",
+              "Campaign video production",
+              "Event coverage (photo & video)",
+              "Commercial & lifestyle photography"
+            ]
+          }
+        ],
+        "benefits": [
+          "High-quality visual storytelling.",
+          "Content optimized for digital and social platforms.",
+          "Authentic brand representation.",
+          "Professional event coverage."
+        ],
+        "features": [
+          "Cinematic brand films",
+          "Comprehensive campaign production",
+          "Professional lifestyle photography",
+          "Cross-platform content strategy"
+        ],
+        "process": [
+          {
+            "title": "Concept",
+            "description": "Storyboarding, creative direction, and scriptwriting."
+          },
+          {
+            "title": "Pre-pro",
+            "description": "Casting, location scouting, and logistics planning."
+          },
+          {
+            "title": "Production",
+            "description": "Filming, photography, and capturing high-quality content."
+          },
+          {
+            "title": "Post-pro",
+            "description": "Editing, color grading, sound design, and final delivery."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you do event coverage?",
+            "a": "Yes, we provide full photo and video coverage for events."
+          },
+          {
+            "q": "Can you create commercials?",
+            "a": "We produce commercial and lifestyle photography and video campaigns."
+          }
+        ]
+      },
+      "financial": {
+        "name": "Financial Services",
+        "title": "Financial Services",
+        "intro": "SIFA provides a comprehensive suite of financial advisory services delivered by senior Saudi experts with deep practical experience. Our approach is grounded in clarity, transparency, and real-world insight, helping organizations understand their financial landscape and make confident, informed decisions.",
+        "sections": [
+          {
+            "title": "Financial Modeling & Valuation",
+            "content": "Building clear, reliable models and analyses that support investment decisions, pricing, market entry, and scenario planning.",
+            "list": [
+              "Investment decision support models",
+              "Pricing and valuation analyses",
+              "Market entry financial assessments",
+              "Scenario planning and sensitivity analysis"
+            ]
+          },
+          {
+            "title": "FP&A (Financial Planning & Analysis)",
+            "content": "Strengthening planning, reporting, and analytical capabilities so finance becomes a strategic partner to the business.",
+            "list": [
+              "Strategic financial planning frameworks",
+              "Management reporting enhancement",
+              "Financial analytics and KPI development",
+              "Business partnering capabilities"
+            ]
+          },
+          {
+            "title": "Budgeting & Forecasting",
+            "content": "Transforming planning processes into agile, insight-driven tools that improve accuracy, control, and resource allocation.",
+            "list": [
+              "Annual budgeting process optimization",
+              "Rolling forecast implementation",
+              "Resource allocation frameworks",
+              "Variance analysis and control systems"
+            ]
+          },
+          {
+            "title": "Business Planning",
+            "content": "Developing structured, actionable plans that combine strategy, financial projections, and execution roadmaps for growth and transformation.",
+            "list": [
+              "Strategic business plan development",
+              "Financial projection modeling",
+              "Growth strategy financial analysis",
+              "Transformation roadmap planning"
+            ]
+          },
+          {
+            "title": "Project Costing & Cost Control",
+            "content": "Helping organizations estimate, budget, track, and optimize project costs with discipline and transparency.",
+            "list": [
+              "Project cost estimation and budgeting",
+              "Cost tracking and monitoring systems",
+              "Cost optimization strategies",
+              "Project financial governance"
+            ]
+          }
+        ],
+        "benefits": [
+          "Clear, reliable financial models and analyses.",
+          "Strengthened financial planning and analytical capabilities.",
+          "Improved budgeting accuracy and resource allocation.",
+          "Strategic business plans with actionable roadmaps.",
+          "Disciplined project cost management and control."
+        ],
+        "features": [
+          "Senior Saudi expert delivery",
+          "Practical, real-world insight",
+          "Clarity and transparency focus",
+          "Educational approach first",
+          "Strategic finance partnership"
+        ],
+        "process": [
+          {
+            "title": "Assess",
+            "description": "Understanding current financial capabilities, processes, and strategic needs."
+          },
+          {
+            "title": "Design",
+            "description": "Developing tailored financial frameworks, models, and planning processes."
+          },
+          {
+            "title": "Implement",
+            "description": "Rolling out new systems, training teams, and establishing governance."
+          },
+          {
+            "title": "Optimize",
+            "description": "Continuous improvement, refinement, and capability building."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you provide ongoing FP&A support?",
+            "a": "Yes, we strengthen your internal FP&A capabilities and can provide ongoing strategic finance partnership."
+          },
+          {
+            "q": "Can you help with project cost control?",
+            "a": "We help organizations estimate, budget, track, and optimize project costs with discipline and transparency."
+          },
+          {
+            "q": "What's your approach to financial advisory?",
+            "a": "Our philosophy is simple: educate first, advise when needed. We help leaders understand their options and strengthen their financial capabilities."
+          }
+        ],
+        "labels": {
+          "benefitsTitle": "Benefits With Our Service",
+          "featuresTitle": "Key features",
+          "faqEyebrow": "FAQ___",
+          "faqTitle": "Get Every Single Answer From Here",
+          "seeAll": "See ALL"
+        }
+      }
+    },
+    "cta": {
+      "question": "Are you interested in our services?",
+      "title": "Get in touch with us.",
+      "description": "We're here to assist you.",
+      "button": "Book a meeting now!"
+    },
+    "backToOverview": "Back to Services Overview"
+  },
+  "insight": {
+    "eyebrow": "SIFA INSIGHTS",
+    "hero": {
+      "title": "Knowledge That Inspires Better Decisions",
+      "titleLine1": "Knowledge That Inspires",
+      "titleLine2": "Better Decisions",
+      "description": "The SIFA Insights hub brings you articles, research, and perspectives on strategy, finance, governance, and marketing. Our goal is to share knowledge that helps businesses and leaders stay ahead in a fast-changing market."
+    },
+    "readMore": "Read More",
+    "articles": {
+      "article1": {
+        "title": "AI, Data, and Trust: The New Rules of Digital Marketing in KSA",
+        "metaDescription": "Discover how AI, data, and trust are reshaping digital marketing in KSA. Learn the new rules guiding Saudi brands toward smarter, more authentic digital growth.",
+        "imageAlt": "AI & Data: The New Rules of Digital Marketing in Saudi Arabia",
+        "content": {
+          "p1": "The digital landscape in Saudi Arabia is evolving faster than ever. With Vision 2030 accelerating technological adoption and 96% of the population online, brands now face a new reality: traditional digital marketing isn't enough anymore.",
+          "p2": "Saudi consumers expect personalization, relevance, authenticity, and above all, trust. Meanwhile, AI and data analytics have moved from optional tools to essential pillars for any brand aiming to stay competitive.",
+          "p3": "So the question is no longer \"Should we use AI?\" but rather \"How do we use AI and data intelligently while earning the trust of Saudi consumers?\"",
+          "h1": "The Saudi Digital Marketing Shift",
+          "p4": "Saudi Arabia's digital economy is growing at record speed. E-commerce is projected to hit SAR 50 billion by 2025, and digital ad spending continues to climb.",
+          "p5": "But with this growth comes a new paradox:",
+          "li1": "More data doesn't automatically mean better marketing.",
+          "li2": "More AI doesn't guarantee customer loyalty.",
+          "li3": "More channels don't build trust.",
+          "p6": "To succeed, brands must understand the forces reshaping digital marketing in the Kingdom.",
+          "h2": "1. AI-Powered Personalization",
+          "p7": "Consumers in KSA want experiences that reflect their needs, not generic messaging. AI now enables brands to deliver tailored content, smarter recommendations, and real-time engagement across touchpoints.",
+          "h3": "2. Data as Strategic Currency",
+          "p8": "With third-party cookies fading out, first-party data is becoming the most valuable asset for marketers. Brands that unify and analyze their data gain clearer insights, better segmentation, and stronger ROI.",
+          "h4": "3. Trust as the Ultimate Differentiator",
+          "p9": "Saudi consumers are more informed and cautious than ever. They research brands, expect transparency about data use, and gravitate toward brands that align with cultural values and communicate openly.",
+          "h5": "Why Old Marketing Models Fail in Today's Saudi Market",
+          "p10": "Many companies still rely on outdated methods, broadcasting generic ads, collecting data without strategy, or deploying AI without considering user experience. These mistakes lead to:",
+          "li4": "High spending with low returns",
+          "li5": "Poor customer loyalty",
+          "li6": "Misaligned cultural communication",
+          "li7": "Breakdown in trust",
+          "p11": "Marketing can't be effective without authenticity, clarity, and respect for customer expectations.",
+          "h6": "The New Framework for Winning in KSA",
+          "p12": "Forward-thinking Saudi brands adopt a model centered around three pillars:",
+          "h7": "Strategic Data Foundations",
+          "p13": "Clear objectives, unified platforms, data governance, and continuous refinement. This creates meaningful insights, not noise.",
+          "h8": "Ethical and Human-Centered AI Implementation",
+          "p14": "AI should enhance, not replace, the human connection. Transparency, cultural relevance, and value-added experiences are key.",
+          "h9": "Trust-Building Through Transparency",
+          "p15": "From clear data policies to open communication, trust is built when consumers feel safe, informed, and respected.",
+          "h10": "The Future of Digital Marketing in Saudi Arabia",
+          "p16": "Hyper-personalization, conversational AI, real experiences, and stronger data privacy frameworks will define the next decade of Saudi marketing. Only brands that combine AI intelligence, data-driven strategy, and human trust will thrive.",
+          "h11": "Conclusion: The Time to Act Is Now",
+          "p17": "The digital marketing landscape in KSA has fundamentally changed. AI and data analytics are no longer optional. They're essential for competitive survival. But technology alone isn't the answer.",
+          "p18": "The winning formula combines:",
+          "li8": "Intelligent use of AI that enhances rather than replaces human connection",
+          "li9": "Strategic data utilization that drives informed decision-making",
+          "li10": "Unwavering commitment to trust through transparency and cultural respect",
+          "p19": "Saudi businesses that master this combination will dominate their markets. Those that don't will struggle to keep pace with consumer expectations and competitor innovation.",
+          "p20": "The question is: Which side of this divide will your business be on?",
+          "p21": "Ready to transform your digital marketing strategy with AI, data intelligence, and trust-building expertise?",
+          "p22": "Contact Sifa Consulting today for a complimentary digital marketing assessment. Let's discuss how we can elevate your brand's online presence and connect you with your target audience more effectively."
+        }
+      },
+      "article2": {
+        "title": "Beyond Oil: Valuing Non-Oil Assets for Saudi Arabia's Diversified Economy",
+        "imageAlt": "Beyond Oil: Valuing Non-Oil Assets for Saudi Arabia's Diversified Economy",
+        "content": {
+          "p1": "Saudi Arabia is undergoing one of the most profound economic transformations of the 21st century. As Vision 2030 accelerates diversification, the center of value creation is shifting. From traditional, oil-driven assets to fast-growing, innovation-led sectors that are reshaping the Kingdom's economic identity.",
+          "p2": "FinTech, logistics, entertainment, tourism, renewable energy, AI, and digital infrastructure are now central to national competitiveness. And as these sectors evolve, valuation methodologies must evolve with them.",
+          "h1": "Why DCF Alone Isn't Enough for Saudi Startups",
+          "p3": "Traditional valuation models like Discounted Cash Flow (DCF) were built for stable, predictable industries not hyper-growth innovation ecosystems.",
+          "h2": "The Challenge with High-Growth Non-Oil Sectors",
+          "li1": "Early-stage tech and digital companies often show negative cash flows",
+          "li2": "Growth potential is high, but not immediately visible in financial statements",
+          "li3": "Global and regional market sentiment increasingly influences valuation",
+          "p4": "Relying on DCF alone can significantly undervalue Saudi startups and non-oil ventures.",
+          "h3": "The Hybrid Valuation Approach",
+          "p5": "A more accurate approach blends:",
+          "li4": "DCF forecasting",
+          "li5": "Market multiples from comparable global and GCC transactions",
+          "li6": "Scenario-based models",
+          "li7": "Real options for companies with IP-driven scalability",
+          "p6": "This ensures valuations reflect both financial fundamentals and future potential.",
+          "h4": "The Rise of Saudi Arabia's Non-Oil Economy: Why Valuation Matters More Than Ever",
+          "p7": "Saudi Arabia's economic transformation is no longer a prediction. It is measurable, visible, and historic.",
+          "p8": "By 2023, non-oil revenues accounted for 50% of the Kingdom's total GDP, the highest share ever recorded, according to the Ministry of Economy and Planning. This milestone reflects the accelerating success of Vision 2030 in reshaping the national economy.",
+          "p9": "At constant prices, the Kingdom's non-oil sectors are now valued at SAR 1.7 trillion (USD 453 billion), fueled by strong momentum across exports, investments, and consumer spending. Private-sector investment alone grew 57% in 2023, reaching a record SAR 959 billion, signaling heightened investor confidence and expanding market opportunities.",
+          "p10": "Several sectors have emerged as standout drivers of diversification:",
+          "li8": "Arts & Entertainment: 106% growth (2021–2022), positioning Saudi Arabia as a regional cultural hub",
+          "li9": "Food Industries: 77% growth, reflecting rising demand and supply-chain expansion",
+          "li10": "Transport & Storage: 29% growth supported by logistics and connectivity upgrades",
+          "li11": "Health & Education: 10.8% growth as human capital becomes a national priority",
+          "li12": "Trade, Restaurants & Hotels: 7% growth amid tourism expansion",
+          "li13": "Communications: 3.7% growth driven by digital transformation",
+          "p11": "This momentum is not confined to Saudi Arabia alone. The World Bank's Gulf Economic Update reports that all GCC countries are advancing in non-oil diversification, creating new employment opportunities and strengthening economic resilience.",
+          "p12": "Although GCC GDP grew modestly by 1% in 2023 -largely due to lower oil production- the non-oil sector surged by 3.9%, with expectations to maintain 3.4% growth in the medium term. Projections show GCC economic activity rising to 3.6% in 2024 and 3.7% in 2025.",
+          "p13": "This shift underscores a new economic reality: non-oil sectors are becoming the primary engine of growth across the region.",
+          "p14": "For Saudi businesses, this means accurate valuation of non-oil assets, technology, intellectual property, contracts, and human capital is no longer optional. It is the foundation for attracting investment, optimizing strategy, and competing in a rapidly evolving market.",
+          "h5": "The Intangible Value Drivers of Saudi Arabia's New Economy",
+          "p15": "Non-oil sectors in KSA are increasingly defined by intangible assets. These assets directly drive valuation premiums.",
+          "h6": "Intellectual Property (IP)",
+          "p16": "Patented technologies, proprietary software, algorithms, and unique operational frameworks now represent the largest share of enterprise value.",
+          "h7": "Strategic Giga-Project Contracts",
+          "p17": "Partnerships with NEOM, Red Sea Global, Qiddiya, and Diriyah Gate:",
+          "li14": "Boost credibility",
+          "li15": "Ensure long-term revenues",
+          "li16": "Increase valuation multiples",
+          "h8": "ESG, Saudization & Sustainability",
+          "p18": "Investors prioritize companies that:",
+          "li17": "Build strong local talent pipelines",
+          "li18": "Maintain high governance standards",
+          "li19": "Commit to environmental and social responsibility",
+          "p19": "These elements now directly influence investor appetite and valuation outcomes.",
+          "h9": "Preparing for Foreign Investment. The Valuation Readiness Checklist",
+          "p20": "For Saudi companies seeking foreign investors, JVs, or exits, valuation is not just a number. It's a signal of maturity.",
+          "h10": "Steps to Improve Valuation Credibility",
+          "li20": "Clean, transparent financial reporting",
+          "li21": "Strong corporate governance structures",
+          "li22": "Clear ownership of IP and legal documentation",
+          "li23": "Defined business model and revenue streams",
+          "li24": "Accurate KPIs and performance dashboards",
+          "li25": "ESG and Saudization compliance records",
+          "p21": "Companies with these foundations consistently command higher valuations.",
+          "h11": "Conclusion: Your Valuation Is Your Strategic Compass",
+          "p22": "In Saudi Arabia's rapidly diversifying economy, valuation has become a strategic tool that guides decision-making and attracts global investment. As non-oil sectors expand, companies that understand modern valuation practices will lead the Kingdom's next economic chapter.",
+          "p23": "Vision 2030 is creating unprecedented opportunities, and accurate valuation is the key to unlocking them."
+        }
+      }
+    },
+    "button": "Explore Insights",
+    "articleNotFound": "Article not found",
+    "backToInsights": "Back to Insights"
+  },
+  "contact": {
+    "eyebrow": "CONTACT US",
+    "form": {
+      "title": "Get a Free consultation",
+      "description": "Our team at SIFA is ready to help you succeed. Tell us a bit about yourself, and we'll get in touch within 24 hours.",
+      "name": "Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "website": "Business website (If Available)",
+      "services": "Which service of ours matters to you?",
+      "servicesPlaceholder": "Select a service",
+      "services.transaction": "Transaction Services",
+      "services.risk": "Risk Advisory Services",
+      "services.people": "People & Organization",
+      "services.it": "Digital Transformation Advisory",
+      "services.branding": "Branding, Marketing and Communication Advisory",
+      "services.events": "Events & Gifts",
+      "services.media": "Media Production & Photography",
+      "services.financial": "Financial Services",
+      "services.mergers": "Mergers & Acquisitions",
+      "services.valuations": "Business Valuations",
+      "challenges": "Give us a brief about your challenges",
+      "contactDay": "Which day is best to contact you?",
+      "contactDayPlaceholder": "Select a day",
+      "days": {
+        "saturday": "Saturday",
+        "sunday": "Sunday",
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday"
+      },
+      "submit": "Submit",
+      "whatsappText": "Or you can contact us directly via whatsapp",
+      "whatsappButton": "Contact via WhatsApp",
+      "whatsappLabel": "Contact us via WhatsApp",
+      "whatsappLink": "https://wa.me/966531687985"
+    },
+    "hero": {
+      "title": "Let's Talk Strategy",
+      "description": "Your next growth opportunity starts with a conversation. Reach out to our team today and discover how SIFA can help turn your challenges into success stories.",
+      "button": "Get a Free Consultation"
+    },
+    "info": {
+      "officeAddress": "Office Address",
+      "email": "Email",
+      "phone": "Phone"
+    },
+    "images": {
+      "clockTower": "Clock tower",
+      "locationMap": "Contact location map"
+    },
+    "mapHeading": "Please click on the map to get exact location",
+    "clickToViewMap": "Click to view on Google Maps",
+    "clickToViewFullMap": "Click here to view full map"
+  },
+  "common": {
+    "officeAddress": "King Abdulaziz St, Rd, Al Khobar 34426",
+    "email": "sifa@sifa.consulting",
+
+    "phone2": "+966 53 168 7985"
+  },
+  "legal": {
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "returnPolicy": "Return & Exchange Policy"
+  },
+  "pricing": {
+    "title": "Service Pricing",
+    "services": {
+      "marketing": {
+        "name": "Marketing & Branding Package",
+        "description": "Comprehensive marketing strategy and brand building.",
+        "price": "Starting from SAR 5,000"
+      },
+      "financial": {
+        "name": "Financial Advisory",
+        "description": "Financial modeling, valuations, and investment advice.",
+        "price": "Starting from SAR 10,000"
+      },
+      "startup": {
+        "name": "Startup Consulting",
+        "description": "Business plan formulation and growth strategies for startups.",
+        "price": "Starting from SAR 7,500"
+      }
+    }
+  }
+}

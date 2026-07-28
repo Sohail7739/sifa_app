@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Service Detail Showcase</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Poppins", sans-serif;
+      background: #f8f8f8;
+    }
+
+    /* Section Wrapper */
+    .service-detail {
+      padding: 90px 10%;
+      background: linear-gradient(to right, #ffffff, #f6f6f6);
+    }
+
+    /* Container */
+    .service-container {
+      display: flex;
+      gap: 60px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    /* Image Side */
+    .service-image {
+      flex: 1;
+      min-width: 320px;
+    }
+
+    .service-image img {
+      width: 100%;
+      border-radius: 25px;
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.18);
+      transition: 0.4s ease;
+    }
+
+    .service-image img:hover {
+      transform: scale(1.03);
+    }
+
+    /* Content Side */
+    .service-content {
+      flex: 1;
+      min-width: 350px;
+    }
+
+    .service-content h2 {
+      font-size: 46px;
+      font-weight: 600;
+      margin-bottom: 12px;
+      color: #111;
+    }
+
+    .subtitle {
+      font-size: 17px;
+      color: #555;
+      margin-bottom: 35px;
+      line-height: 1.6;
+    }
+
+    /* Accordion */
+    .accordion-item {
+      border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+      padding: 10px 0;
+    }
+
+    .accordion-title {
+      width: 100%;
+      background: none;
+      border: none;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 18px 0;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: #222;
+    }
+
+    .accordion-title span {
+      font-size: 24px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .accordion-body {
+      max-height: 0;
+      overflow: hidden;
+      font-size: 15px;
+      color: #444;
+      line-height: 1.7;
+      transition: max-height 0.4s ease;
+    }
+
+    .accordion-item.active .accordion-body {
+      max-height: 200px;
+    }
+
+    .accordion-item.active span {
+      transform: rotate(45deg);
+    }
+
+    /* Button */
+    .back-btn {
+      display: inline-block;
+      margin-top: 40px;
+      padding: 14px 32px;
+      background: #0d4b3e;
+      color: white;
+      border-radius: 35px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      transition: 0.3s ease;
+    }
+
+    .back-btn:hover {
+      background: #000;
+      transform: translateY(-2px);
+    }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .service-container {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .service-content h2 {
+        font-size: 38px;
+      }
+
+      .accordion-title {
+        justify-content: center;
+        gap: 15px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ✅ Service Detail Section -->
+  <section class="service-detail">
+
+    <div class="service-container">
+
+      <!-- Left Image -->
+      <div class="service-image">
+        <img src="https://picsum.photos/700/500?random=10" alt="Events & Gifts">
+      </div>
+
+      <!-- Right Content -->
+      <div class="service-content">
+
+        <h2>Events & Gifts</h2>
+
+        <p class="subtitle">
+          We design experiences that people remember.  
+          From premium corporate gifting to full event execution,  
+          our solutions elevate brands with unforgettable moments.
+        </p>
+
+        <!-- Accordion -->
+        <div class="accordion">
+
+          <div class="accordion-item">
+            <button class="accordion-title">
+              Full Event Execution <span>+</span>
+            </button>
+            <div class="accordion-body">
+              From concept to delivery, we manage every detail to create impactful experiences.
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <button class="accordion-title">
+              Corporate Gifting Solutions <span>+</span>
+            </button>
+            <div class="accordion-body">
+              Customized premium gifts that strengthen relationships and elevate brand identity.
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <button class="accordion-title">
+              Brand Experiences <span>+</span>
+            </button>
+            <div class="accordion-body">
+              Guest experiences built around storytelling, elegance, and lasting impressions.
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Back Button -->
+        <a href="#" class="back-btn">← Back to Services</a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- ✅ JavaScript -->
+  <script>
+    const accordionItems = document.querySelectorAll(".accordion-item");
+
+    accordionItems.forEach(item => {
+      const title = item.querySelector(".accordion-title");
+
+      title.addEventListener("click", () => {
+
+        // Close all first
+        accordionItems.forEach(i => {
+          if (i !== item) i.classList.remove("active");
+        });
+
+        // Toggle current
+        item.classList.toggle("active");
+      });
+    });
+  </script>
+
+</body>
+</html>

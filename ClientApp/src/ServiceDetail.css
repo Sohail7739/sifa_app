@@ -1,0 +1,510 @@
+/* ServiceDetail.css */
+
+/* General Layout */
+.service-detail-section {
+    background-color: #ffffff;
+    margin-bottom: 0;
+    /* Remove margin as padding is now internal */
+    padding-bottom: 6rem;
+    padding-top: 4rem;
+    color: #0b2115;
+}
+
+.service-detail-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 var(--page-pad);
+    color: #0b2115;
+}
+
+/* Typography Overrides for this page */
+.service-detail-title {
+    font-family: 'Lyon Display', serif;
+    font-size: clamp(2rem, 4vw, 3rem);
+    line-height: 1.2;
+    margin-bottom: 2rem;
+    color: #0b2115;
+}
+
+.service-detail-text {
+    font-family: 'SF Pro', sans-serif;
+    color: rgba(11, 33, 21, 0.8);
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.8;
+}
+
+/* Main Image */
+.service-main-image {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-bottom: 3rem;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+}
+
+/* Service Subsections */
+.service-subsection {
+    margin: 3rem 0;
+    padding: 0;
+    opacity: 1; /* Ensure subsections are visible by default */
+}
+
+.service-subsection-title {
+    font-family: 'Lyon Display', serif;
+    font-size: 1.75rem;
+    color: #0b2115;
+    margin-bottom: 1.5rem;
+    line-height: 1.3;
+}
+
+.service-content-list {
+    margin-bottom: 2rem;
+    padding-left: 1.5rem;
+    color: #0b2115;
+}
+
+.service-content-list li {
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
+    color: rgba(11, 33, 21, 0.8);
+}
+
+.service-content-list li::marker {
+    color: #ff6b35;
+}
+
+/* Ensure main content sections are visible */
+.service-detail-title,
+.service-detail-text {
+    opacity: 1 !important;
+    transform: none !important;
+}
+
+/* Benefits Section */
+.service-benefits {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+    margin: 4rem 0;
+}
+
+.service-benefits__content h3 {
+    font-family: 'Lyon Display', serif;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.service-benefits__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.service-benefits__list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    color: rgba(11, 33, 21, 0.8);
+    font-size: 0.95rem;
+}
+
+.service-benefits__list li::before {
+    content: '';
+    display: inline-block;
+    min-width: 8px;
+    height: 8px;
+    background-color: #ff6b35;
+    /* Orange accent from design */
+    border-radius: 50%;
+    margin-right: 12px;
+    margin-top: 8px;
+}
+
+.service-benefits__image img {
+    width: 100%;
+    height: 400px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+/* Gallery Section */
+.service-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 4rem 0;
+}
+
+.service-gallery img {
+    width: 100%;
+    height: 400px;
+    min-height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: block; /* Ensures no extra inline spacing */
+}
+
+/* Process Flow Section */
+.service-process {
+    margin: 6rem 0;
+    position: relative;
+}
+
+.process-steps {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    position: relative;
+    margin-top: 3rem;
+}
+
+.process-line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: rgba(11, 33, 21, 0.2);
+    z-index: 0;
+}
+
+.process-step {
+    position: relative;
+    padding-top: 2rem;
+}
+
+.process-step::before {
+    content: '';
+    position: absolute;
+    top: -4px;
+    left: 0;
+    width: 9px;
+    height: 9px;
+    background-color: #fff;
+    border: 2px solid #0b2115;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.process-number {
+    font-family: 'Lyon Display', serif;
+    font-size: 3.5rem;
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(11, 33, 21, 0.3);
+    opacity: 0.8;
+    margin-bottom: 1rem;
+    line-height: 1;
+    display: block;
+}
+
+.process-step h4 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #0b2115;
+}
+
+.process-step p {
+    font-size: 0.875rem;
+    color: rgba(11, 33, 21, 0.6);
+    line-height: 1.6;
+}
+
+/* Process Step Animations with distinct delays */
+.process-step.scroll-animate-fade-up {
+    transition-delay: 0s;
+}
+
+.process-step.scroll-animate-fade-up:nth-child(1) {
+    transition-delay: 0.2s;
+}
+
+.process-step.scroll-animate-fade-up:nth-child(2) {
+    transition-delay: 0.5s;
+}
+
+.process-step.scroll-animate-fade-up:nth-child(3) {
+    transition-delay: 0.8s;
+}
+
+.process-step.scroll-animate-fade-up:nth-child(4) {
+    transition-delay: 1.1s;
+}
+
+/* Video Section */
+.service-video {
+    position: relative;
+    width: 100%;
+    margin: 6rem 0;
+    border-radius: 12px;
+    overflow: hidden;
+    /* Removed fixed aspect-ratio to allow image to dictate height or fit naturally */
+    /* aspect-ratio: 21/9; */
+}
+
+.service-video img {
+    width: 100%;
+    height: auto; /* Changed from 100% to auto to maintain aspect ratio */
+    object-fit: contain; /* Changed from cover to contain to prevent cropping */
+    display: block;
+}
+
+.video-play-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: #C3D97B;
+    /* Greenish/Lime from design */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: none;
+    transition: transform 0.3s ease;
+    z-index: 2;
+}
+
+.video-play-btn:hover {
+    transform: translate(-50%, -50%) scale(1.1);
+}
+
+.video-text-ring {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    animation: spin 10s linear infinite;
+}
+
+.video-play-icon {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 16px;
+    border-color: transparent transparent transparent #0b2115;
+}
+
+/* Key Features */
+.service-key-features {
+    margin: 4rem 0;
+}
+
+.service-key-features h3 {
+    font-family: 'Lyon Display', serif;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* FAQ Section */
+.service-faq {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: 4rem;
+    margin: 6rem 0;
+}
+
+.faq-header h2 {
+    font-family: 'Lyon Display', serif;
+    font-size: 2.5rem;
+    margin: 1rem 0 2rem;
+    line-height: 1.2;
+}
+
+.faq-eyebrow {
+    color: #ff6b35;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.btn-see-all {
+    display: inline-flex;
+    align-items: center;
+    padding: 12px 24px;
+    background-color: #06402B;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    /* Slightly squared per design */
+    font-weight: 500;
+    transition: background 0.3s;
+}
+
+.btn-see-all:hover {
+    background-color: #0a5c3a;
+}
+
+.btn-see-all svg {
+    margin-left: 8px;
+}
+
+.faq-list {
+    border-top: 1px solid rgba(11, 33, 21, 0.1);
+}
+
+.faq-item {
+    border-bottom: 1px solid rgba(11, 33, 21, 0.1);
+}
+
+.faq-question {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 0;
+    background: none;
+    border: none;
+    color: #0b2115;
+    text-align: left;
+    font-family: 'SF Pro', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+.faq-item.active .faq-answer {
+    max-height: 500px;
+    /* Arbitrary large number */
+    transition: max-height 0.5s ease-in;
+}
+
+.faq-answer p {
+    padding-bottom: 1.5rem;
+    color: rgba(11, 33, 21, 0.7);
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.faq-icon {
+    width: 12px;
+    height: 12px;
+    border-right: 2px solid #ff6b35;
+    border-bottom: 2px solid #ff6b35;
+    transform: rotate(45deg);
+    transition: transform 0.3s;
+}
+
+.faq-item.active .faq-icon {
+    transform: rotate(-135deg);
+}
+
+
+/* Responsive */
+@media (max-width: 900px) {
+
+    .service-benefits,
+    .service-gallery,
+    .process-steps,
+    .service-faq {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .service-benefits__image {
+        order: -1;
+        /* Image first on mobile? Or standard flow */
+    }
+
+    .process-steps {
+        grid-template-columns: 1fr;
+        margin-top: 0;
+    }
+
+    .process-line {
+        display: none;
+        /* Hide line on mobile stack */
+    }
+
+    .process-step {
+        padding-left: 2rem;
+        padding-top: 0;
+        border-left: 1px solid rgba(11, 33, 21, 0.2);
+        padding-bottom: 2rem;
+    }
+
+    .process-step::before {
+        left: -5px;
+        top: 0;
+    }
+}
+
+/* Override for Service Hero Title to ensure wrapping */
+.services-hero__title {
+    max-width: 14em !important;
+    /* Force wrap for long titles like Branding */
+    white-space: normal !important;
+    line-height: 1.2 !important;
+    word-wrap: break-word !important;
+}
+
+.services-hero__title .services-hero__title-line {
+    white-space: normal !important;
+    display: inline-block !important;
+    /* Allow wrapping behavior */
+}
+
+/* Ensure the container also respects this if flex/grid is involved */
+.services-hero__left {
+    max-width: 100%;
+}
+
+@media (max-width: 900px) {
+    .services-hero__title {
+        max-width: 100% !important;
+    }
+}
+
+/* Fix for gap under hero image */
+.services-hero {
+    position: relative !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+    min-height: auto !important;
+    /* Allow it to shrink if needed */
+}
+
+.services-hero__image-wrapper {
+    margin-bottom: -1rem !important;
+    /* Pull it down slightly to cover any pixel gap */
+    height: auto !important;
+    min-height: 0 !important;
+    display: flex !important;
+    align-items: flex-end !important;
+}
+
+.services-hero__building {
+    margin-bottom: -5px !important;
+    /* Ensure it sits flush or slightly below */
+    vertical-align: bottom !important;
+}
+
+/* RTL Layout Mirroring for Hero Text */
+[dir="rtl"] .services-hero__left {
+    margin-left: 0 !important;
+    margin-right: 38rem !important;
+    text-align: right;
+}
+
+@media (min-width: 1200px) {
+    [dir="rtl"] .services-hero__left {
+        margin-right: 9.5rem !important;
+    }
+}
+
+@media (max-width: 900px) {
+    [dir="rtl"] .services-hero__left {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+    }
+}

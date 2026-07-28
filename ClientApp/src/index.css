@@ -1,0 +1,101 @@
+/* Lyon Display Font Family */
+@font-face {
+  font-family: 'Lyon Display';
+  src: url('../Lyon display/Lyon Display Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lyon Display';
+  src: url('../Lyon display/Lyon Display Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lyon Display';
+  src: url('../Lyon display/Lyon Display Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lyon Display';
+  src: url('../Lyon display/Lyon Display Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lyon Display';
+  src: url('../Lyon display/Lyon Display Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Lyon Text Font Family */
+@font-face {
+  font-family: 'Lyon Text';
+  src: url('../Lyon Text/Lyon Text Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lyon Text';
+  src: url('../Lyon Text/Lyon Text Regular No. 2.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lyon Text';
+  src: url('../Lyon Text/Lyon Text Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lyon Text';
+  src: url('../Lyon Text/Lyon Text Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lyon Text';
+  src: url('../Lyon Text/Lyon Text Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  * {
+    font-family: 'Lyon Text', 'Lyon Display', 'SF Pro', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  }
+
+  ::selection {
+    background: rgba(79, 70, 229, 0.25);
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  a {
+    color: inherit;
+  }
+}
+

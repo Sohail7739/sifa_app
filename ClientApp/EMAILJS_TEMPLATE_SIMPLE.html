@@ -1,0 +1,51 @@
+<!-- Simpler Version - If the above is too complex, use this one -->
+<div style="font-family: system-ui, sans-serif, Arial; font-size: 14px; max-width: 600px; margin: 0 auto;">
+  
+  <!-- Header -->
+  <div style="background: #117547; padding: 20px; text-align: center; color: #ffffff;">
+    <h1 style="margin: 0; font-size: 20px;">New Contact Form Submission</h1>
+    <p style="margin: 5px 0 0; font-size: 13px;">Message from {{from_name}}</p>
+  </div>
+
+  <!-- Content -->
+  <div style="padding: 20px; background-color: #f8f9fa;">
+    
+    <!-- Contact Info -->
+    <div style="background: #ffffff; padding: 15px; margin-bottom: 15px; border-radius: 5px;">
+      <p style="margin: 5px 0;"><strong>Name:</strong> {{from_name}}</p>
+      <p style="margin: 5px 0;"><strong>Email:</strong> <a href="mailto:{{from_email}}" style="color: #117547;">{{from_email}}</a></p>
+      <p style="margin: 5px 0;"><strong>Phone:</strong> <a href="tel:{{phone}}" style="color: #117547;">{{phone}}</a></p>
+      <p style="margin: 5px 0;"><strong>Website:</strong> {{website}}</p>
+    </div>
+
+    <!-- Services & Day -->
+    <div style="background: #ffffff; padding: 15px; margin-bottom: 15px; border-radius: 5px;">
+      <p style="margin: 5px 0;"><strong>Services:</strong> {{services}}</p>
+      <p style="margin: 5px 0;"><strong>Preferred Day:</strong> {{contact_day}}</p>
+    </div>
+
+    <!-- Message Card -->
+    <div style="padding: 15px 0; border-top: 1px dashed #ddd; border-bottom: 1px dashed #ddd;">
+      <table role="presentation" style="width: 100%;">
+        <tr>
+          <td style="vertical-align: top; width: 50px;">
+            <div style="padding: 8px; margin: 0 10px; background-color: #117547; border-radius: 50%; font-size: 24px; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; color: #ffffff;" role="img">👤</div>
+          </td>
+          <td style="vertical-align: top;">
+            <div style="color: #2c3e50; font-size: 16px; margin-bottom: 5px;"><strong>{{from_name}}</strong></div>
+            <div style="color: #999; font-size: 12px; margin-bottom: 10px;">{{from_email}}</div>
+            <p style="font-size: 14px; color: #2c3e50; line-height: 1.6; white-space: pre-wrap; margin: 0;">{{challenges}}</p>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <div style="background-color: #f8f9fa; padding: 15px; text-align: center; border-top: 1px solid #ddd;">
+    <p style="margin: 0; color: #999; font-size: 12px;">This email was sent from your website contact form.</p>
+  </div>
+
+</div>
+
