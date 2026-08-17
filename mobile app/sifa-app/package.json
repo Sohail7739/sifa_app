@@ -1,0 +1,19 @@
+{
+  "name": "sifa-consulting-app",
+  "version": "1.0.0",
+  "description": "SIFA Consulting mobile app — official APK and iOS source",
+  "private": true,
+  "scripts": {
+    "build": "npx cap sync",
+    "android": "npx cap open android",
+    "ios": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/ios": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}

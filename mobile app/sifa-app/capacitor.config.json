@@ -1,0 +1,13 @@
+{
+  "appId": "com.sifa.consulting",
+  "appName": "SIFA Consulting",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0b2115"
+  }
+}
