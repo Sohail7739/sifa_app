@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { TranslationProvider } from './contexts/TranslationContext';
 import MobileHeader from './components/MobileHeader';
+import MobileBottomNav from './components/MobileBottomNav';
+import './components/MobileBottomNav.css';
 import App from './App.tsx';
 import About from './About.tsx';
 import Services from './Services.tsx';
@@ -18,9 +20,10 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <TranslationProvider>
-      <BrowserRouter>
+      <HashRouter>
         <div style={{ backgroundColor: '#0b2115', minHeight: '100vh', width: '100%' }}>
           <MobileHeader />
+          <MobileBottomNav />
           <Routes>
             <Route path="/" element={<App />} />
             <Route path="/about" element={<About />} />
@@ -34,7 +37,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
             <Route path="/return-policy" element={<ReturnPolicy />} />
           </Routes>
         </div>
-      </BrowserRouter>
+      </HashRouter>
     </TranslationProvider>
   </React.StrictMode>,
 );

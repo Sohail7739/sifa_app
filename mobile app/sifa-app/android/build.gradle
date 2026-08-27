@@ -24,6 +24,17 @@ allprojects {
     }
 }
 
+// Use the installed build-tools (35.0.0) for all Android modules to avoid needing build-tools 34.
+subprojects {
+    afterEvaluate { proj ->
+        if (proj.plugins.hasPlugin('com.android.application') || proj.plugins.hasPlugin('com.android.library')) {
+            proj.android {
+                buildToolsVersion '35.0.0'
+            }
+        }
+    }
+}
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
